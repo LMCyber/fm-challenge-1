@@ -73,5 +73,3 @@ To see how you can add code snippets, see below:
 
 - Website - [Luis Mendoza](https://github.com/LMCyber)
 - Frontend Mentor - [@LMCyber](https://www.frontendmentor.io/profile/LMCyber)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
