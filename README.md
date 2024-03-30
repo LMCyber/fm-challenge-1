@@ -23,8 +23,7 @@ This is my implementation of the ‘QR code component’ exercise, which involve
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://lmcyber.github.io/fm-challenge-1/)
 
 ## My process
 
