@@ -26,8 +26,8 @@ body {
 }
 
 .main {
-  width: 290px;
-  height: 460px;
+  width: 320px;
+  height: 495px;
   background-color: var(--white);
   border-radius: 2rem;
   font-size: 15px;
